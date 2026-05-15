@@ -137,9 +137,8 @@ def parse_grs(html):
             pdf_link = row.find('a', href=re.compile(r'\.pdf', re.I))
             if not pdf_link:
                 continue
-            pdf_url = pdf_link['href']
-            if not pdf_url.startswith('http'):
-                pdf_url = f'https://gr.maharashtra.gov.in{pdf_url}'
+            # BULLETPROOF: Construct URL directly from doc_id, no relative URL issues
+            pdf_url = f'{PDF_URL_BASE}{doc_id}.pdf'
             
             date_parts = date_str.split('-')
             if len(date_parts) != 3:
@@ -226,6 +225,18 @@ def main():
         g['id'] = f'MH-{max_id + i + 1:04d}'
     
     merged = truly_new + current
+    
+    # BULLETPROOF: Normalize ALL URLs (reconstruct from doc_id to fix any bad URLs)
+    fixed = 0
+    for g in merged:
+        doc_id = g.get('gr_number', '')
+        if doc_id and doc_id.isdigit():
+            correct_url = f'{PDF_URL_BASE}{doc_id}.pdf'
+            if g.get('pdf_url', '') != correct_url:
+                g['pdf_url'] = correct_url
+                fixed += 1
+    if fixed:
+        log(f'  ✓ Normalized {fixed} URLs (fixed malformed entries)')
     
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
