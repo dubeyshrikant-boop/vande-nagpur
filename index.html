@@ -873,7 +873,7 @@
 <div class="tricolor"></div>
 
 <div class="top-bar">
-  <div class="top-bar-center">🇮🇳 भारत माता की जय &nbsp;·&nbsp; वंदे मातरम् &nbsp;·&nbsp; जय हिंद 🇮🇳</div>
+  <div class="top-bar-center">🇮🇳 भारत माता की जय &nbsp;·&nbsp; वंदे मातरम &nbsp;·&nbsp; जय हिंद 🇮🇳</div>
 </div>
 
 <header class="masthead">
@@ -1174,18 +1174,22 @@ chipsEl.addEventListener('click', e => {
   render();
 });
 
-// Floating Action Buttons logic
-const scrollTopBtn = document.getElementById('fabScrollTop');
-window.addEventListener('scroll', () => {
-  if (window.scrollY > 300) scrollTopBtn.classList.add('visible');
-  else scrollTopBtn.classList.remove('visible');
+// Floating Action Buttons logic (wrapped in DOMContentLoaded to ensure elements exist)
+document.addEventListener('DOMContentLoaded', function() {
+  const scrollTopBtn = document.getElementById('fabScrollTop');
+  if (scrollTopBtn) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 300) scrollTopBtn.classList.add('visible');
+      else scrollTopBtn.classList.remove('visible');
+    });
+    scrollTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+  }
 });
-scrollTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
 
 
-// ═══ Visitor Counter v4 — BULLETPROOF (no animation, immediate update) ═══
-(function() {
+// ═══ Visitor Counter v4 — BULLETPROOF (with DOMContentLoaded) ═══
+function initCounter() {
   try {
     const BASELINE = 10000;
     const KEY = 'vn_count_v4';
@@ -1226,7 +1230,12 @@ scrollTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior:
   } catch(e) {
     console.error('Counter error:', e);
   }
-})();
+}
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initCounter);
+} else {
+  initCounter();
+}
 
 </script>
 
