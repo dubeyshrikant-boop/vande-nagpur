@@ -1,0 +1,49 @@
+name: दैनिक अद्ययावत · Daily Auto-Update
+
+on:
+  schedule:
+    - cron: '30 2 * * *'   # दर रोज सकाळी ८ वा IST (02:30 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    name: नवीन GRs scrape + dashboard update
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+      - name: Run daily scraper
+        run: cd scripts && python update.py
+      - name: Check for changes
+        id: changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit and push
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          git config --global user.name 'Vande Nagpur Bot'
+          git config --global user.email 'bot@vandenagpur.in'
+          git add -A
+          git commit -m "🔄 दैनिक अद्ययावत — $(date -u +'%d-%m-%Y')" || true
+          git push
+      - name: Summary
+        run: |
+          echo "## 📊 Update Summary" >> $GITHUB_STEP_SUMMARY
+          if [[ "${{ steps.changes.outputs.changes }}" == "true" ]]; then
+            echo "✅ नवीन GRs सापडली आणि update केले" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ सर्व up-to-date" >> $GITHUB_STEP_SUMMARY
+          fi
