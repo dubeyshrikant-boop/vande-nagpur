@@ -737,12 +737,11 @@
   }
   .visitor-info { flex: 1; min-width: 0; }
   .visitor-label {
-    font-size: 11px;
+    font-size: 12px;
     opacity: 0.95;
-    letter-spacing: 3px;
-    text-transform: uppercase;
+    letter-spacing: 0.5px;
     font-weight: 700;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
   }
   .visitor-count {
     font-family: 'Noto Serif Devanagari', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Mangal', serif;
@@ -1038,7 +1037,7 @@
     <div class="visitor-icon">👁️</div>
     <div class="visitor-info">
       <div class="visitor-label">साइटला एकूण भेटी</div>
-      <div class="visitor-count" id="visitor-count">१०,०००</div>
+      <div class="visitor-count" id="visitor-count">loading...</div>
       <div class="visitor-sublabel">धन्यवाद! आपण आमचे <span class="visitor-personal" id="personal-count">पहिले</span> visitor आहात 🙏</div>
     </div>
     <div class="visitor-live">
@@ -1185,62 +1184,48 @@ scrollTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior:
 
 
 
-// ═══ Visitor Counter (v3 — simple & reliable) ═══
-(function initVisitorCounter() {
-  const BASELINE = 10000;
-  const countEl = document.getElementById('visitor-count');
-  const personalEl = document.getElementById('personal-count');
-  
-  if (!countEl) return;
-  
-  // Simple localStorage counter — increments on EVERY page load
-  const KEY = 'vn_visits_v3';
-  let count = parseInt(localStorage.getItem(KEY)) || 0;
-  count++;
-  localStorage.setItem(KEY, count.toString());
-  
-  const totalVisits = BASELINE + count;
-  
-  // Marathi digit conversion
-  function toMarathi(s) {
-    const m = {'0':'०','1':'१','2':'२','3':'३','4':'४','5':'५','6':'६','7':'७','8':'८','9':'९'};
-    return String(s).split('').map(c => m[c] || c).join('');
+// ═══ Visitor Counter v4 — BULLETPROOF (no animation, immediate update) ═══
+(function() {
+  try {
+    const BASELINE = 10000;
+    const KEY = 'vn_count_v4';
+    const personalEl = document.getElementById('personal-count');
+    const countEl = document.getElementById('visitor-count');
+    
+    if (!countEl) {
+      console.warn('Counter element not found');
+      return;
+    }
+    
+    // Increment counter (every page load = +1)
+    let count = parseInt(localStorage.getItem(KEY)) || 0;
+    count++;
+    localStorage.setItem(KEY, String(count));
+    
+    // Multiply by 3 so each refresh is clearly visible (10003, 10006, 10009...)
+    const totalVisits = BASELINE + count * 3;
+    
+    // Marathi digit converter
+    const marathiDigits = {'0':'०','1':'१','2':'२','3':'३','4':'४','5':'५','6':'६','7':'७','8':'८','9':'९'};
+    
+    // Use browser's built-in Indian formatting + Marathi digits
+    const englishFormatted = totalVisits.toLocaleString('en-IN');
+    const marathiFormatted = englishFormatted.split('').map(c => marathiDigits[c] || c).join('');
+    
+    // SET IMMEDIATELY — no animation, no setTimeout
+    countEl.textContent = marathiFormatted;
+    console.log('✓ Counter set to:', marathiFormatted, '(visit #' + count + ')');
+    
+    // Personal visit ordinal
+    if (personalEl) {
+      const ordinals = {1:'पहिले',2:'दुसरे',3:'तिसरे',4:'चौथे',5:'पाचवे',
+                        6:'सहावे',7:'सातवे',8:'आठवे',9:'नववे',10:'दहावे'};
+      const marathiCount = String(count).split('').map(c => marathiDigits[c] || c).join('');
+      personalEl.textContent = ordinals[count] || (marathiCount + 'वे');
+    }
+  } catch(e) {
+    console.error('Counter error:', e);
   }
-  
-  // Indian comma formatting (e.g., 1,23,456)
-  function indianFormat(n) {
-    const str = n.toString();
-    let lastThree = str.slice(-3);
-    const otherNumbers = str.slice(0, -3);
-    if (otherNumbers !== '') lastThree = ',' + lastThree;
-    const commaRegex = new RegExp('\\B(?=(\\d{2})+(?!\\d))', 'g');
-    return toMarathi(otherNumbers.replace(commaRegex, ',') + lastThree);
-  }
-  
-  // Animated count-up — clearly visible
-  const duration = 2000;
-  const startTime = Date.now();
-  const startValue = Math.max(totalVisits - 300, BASELINE - 50);
-  
-  function animate() {
-    const elapsed = Date.now() - startTime;
-    const progress = Math.min(elapsed / duration, 1);
-    const eased = 1 - Math.pow(1 - progress, 3);
-    const current = Math.floor(startValue + (totalVisits - startValue) * eased);
-    countEl.textContent = indianFormat(current);
-    if (progress < 1) requestAnimationFrame(animate);
-  }
-  
-  // Start immediately
-  setTimeout(animate, 100);
-  
-  // Personal visit ordinal
-  function getOrdinal(n) {
-    const o = {1:'पहिले',2:'दुसरे',3:'तिसरे',4:'चौथे',5:'पाचवे',
-               6:'सहावे',7:'सातवे',8:'आठवे',9:'नववे',10:'दहावे'};
-    return o[n] || (toMarathi(n) + 'वे');
-  }
-  if (personalEl) personalEl.textContent = getOrdinal(count);
 })();
 
 </script>
