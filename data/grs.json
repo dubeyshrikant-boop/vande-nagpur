@@ -1,5 +1,45 @@
 [
   {
+    "title_mr": "सैन्यदलातून अग्निवीर म्हणून सेवा समाप्तीनंतर राज्य शासनाच्या विविध प्रशासकीय विभागांच्या अधिनस्त गणवेशधारी गट-क संवर्गात पुनर्नियुक्ती देण्याकरिता समितीचे गठन करण्याबाबत.",
+    "date": "27-08-2026",
+    "date_iso": "2026-08-27",
+    "year": 2026,
+    "month": 8,
+    "department": "सामान्य प्रशासन विभाग",
+    "department_code": "GAD",
+    "department_icon": "🏛️",
+    "department_en": "GAD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202608271919474207",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271919474207.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true,
+    "id": "MH-0835"
+  },
+  {
+    "title_mr": "सन 2026-27 या शैक्षणिक वर्षासाठी  असामान्य परिस्थितीत विशिष्ट विद्याशाखांच्या नवीन अतिरिक्त तुकड्यांना जलदगती पद्धतीने मंजुरी देण्याबाबत.",
+    "date": "27-08-2026",
+    "date_iso": "2026-08-27",
+    "year": 2026,
+    "month": 8,
+    "department": "उच्च व तंत्र शिक्षण विभाग",
+    "department_code": "HTE",
+    "department_icon": "🎓",
+    "department_en": "HTE",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202608271839040808",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271839040808.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true,
+    "id": "MH-0836"
+  },
+  {
     "title_mr": "शासकीय औद्योगिक प्रशिक्षण संस्थेमधील संस्था व्यवस्थापन समितीमध्ये अशासकीय सदस्यांचे नामनिर्देशन करणेबाबत",
     "date": "27-08-2026",
     "date_iso": "2026-08-27",
@@ -14,7 +54,7 @@
     "gr_number": "202608271653213103",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271653213103.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0825"
@@ -34,7 +74,7 @@
     "gr_number": "202608271657079703",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271657079703.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0826"
@@ -54,7 +94,7 @@
     "gr_number": "202608271659219904",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271659219904.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0827"
@@ -74,7 +114,7 @@
     "gr_number": "202608271111083406",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271111083406.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0828"
@@ -94,7 +134,7 @@
     "gr_number": "202608271151491007",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271151491007.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0829"
@@ -114,7 +154,7 @@
     "gr_number": "202608271642417907",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271642417907.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0830"
@@ -134,7 +174,7 @@
     "gr_number": "202608271242111008",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271242111008.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0831"
@@ -154,7 +194,7 @@
     "gr_number": "202608271200108212...",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271200108212....pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0832"
@@ -174,7 +214,7 @@
     "gr_number": "202608271746388512",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271746388512.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0833"
@@ -194,7 +234,7 @@
     "gr_number": "202608271721261522",
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202608271721261522.pdf",
     "source": "gr.maharashtra.gov.in",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true,
     "id": "MH-0834"
