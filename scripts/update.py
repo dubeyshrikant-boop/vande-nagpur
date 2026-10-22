@@ -14,7 +14,7 @@ import json
 import re
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -91,7 +91,7 @@ DEPT_MAP = {
 
 
 def log(msg):
-    print(f'[{datetime.utcnow().strftime("%H:%M:%S")}] {msg}', flush=True)
+    print(f'[{datetime.now(IST).strftime("%H:%M:%S")}] {msg}', flush=True)
 
 
 def categorize(dept):
@@ -194,6 +194,42 @@ def from_portal(g):
     }
 
 
+IST = timezone(timedelta(hours=5, minutes=30))
+
+
+def refresh_period_flags(grs):
+    """आज / या आठवड्यात (७ दिवस) / या महिन्यात — प्रत्येक run ला GR च्या तारखेवरून पुन्हा मोजा.
+    बदल झाल्यास True परत करते."""
+    now = datetime.now(IST)
+    today = now.strftime('%Y-%m-%d')
+    week_start = (now - timedelta(days=6)).strftime('%Y-%m-%d')
+    month = now.strftime('%Y-%m')
+    changed = False
+    for g in grs:
+        d = g.get('date_iso', '')
+        flags = {
+            'is_today': d == today,
+            'is_this_week': week_start <= d <= today,
+            'is_this_month': d[:7] == month,
+        }
+        for k, v in flags.items():
+            if g.get(k) != v:
+                g[k] = v
+                changed = True
+    return changed
+
+
+def save_and_build(grs):
+    with open(DATA_FILE, 'w', encoding='utf-8') as f:
+        json.dump(grs, f, ensure_ascii=False, indent=2)
+    log(f'\n✓ Dataset: {len(grs)} GRs एकूण')
+    try:
+        import build_html
+        build_html.run(grs)
+    except Exception as e:
+        log(f'⚠ Build issue: {e}')
+
+
 def main():
     log('═' * 60)
     log('  वंदे नागपूर · DIRECT scrape from gr.maharashtra.gov.in')
@@ -226,20 +262,13 @@ def main():
     
     if not truly_new:
         log('\n✓ कोणतीही नवीन GR नाही. सर्व up-to-date.')
+        if refresh_period_flags(current):
+            save_and_build(current)
         return 0
     
     log(f'\n⚡ {len(truly_new)} नवीन GRs:')
     for g in truly_new[:10]:
         log(f'  + [{g["department_code"]}] {g["title_mr"][:60]}')
-    
-    today = datetime.utcnow().strftime('%Y-%m-%d')
-    for g in truly_new:
-        g['is_today'] = (g['date_iso'] == today)
-        g['is_this_week'] = True
-        g['is_this_month'] = True
-    
-    for g in current:
-        g['is_today'] = False
     
     max_id = 0
     for g in current:
@@ -264,16 +293,8 @@ def main():
     if fixed:
         log(f'  ✓ Normalized {fixed} URLs (fixed malformed entries)')
     
-    with open(DATA_FILE, 'w', encoding='utf-8') as f:
-        json.dump(merged, f, ensure_ascii=False, indent=2)
-    log(f'\n✓ Dataset: {len(merged)} GRs एकूण')
-    
-    sys.path.insert(0, str(Path(__file__).parent))
-    try:
-        import build_html
-        build_html.run(merged)
-    except Exception as e:
-        log(f'⚠ Build issue: {e}')
+    refresh_period_flags(merged)
+    save_and_build(merged)
     
     log('═' * 60)
     return 0
