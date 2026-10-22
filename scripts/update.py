@@ -22,6 +22,9 @@ from bs4 import BeautifulSoup
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+sys.path.insert(0, str(Path(__file__).parent))
+import gr_portal  # noqa: E402
+
 ROOT = Path(__file__).parent.parent
 DATA_FILE = ROOT / 'data' / 'grs.json'
 
@@ -169,6 +172,28 @@ def parse_grs(html):
     return grs
 
 
+def from_portal(g):
+    """gr_portal.fetch_latest() चा record → वंदे नागपूरचा GR record."""
+    y, m, d = g['date'].split('-')
+    dept_code, icon = categorize(g['department'])
+    return {
+        'title_mr': g['title'],
+        'date': f'{d}-{m}-{y}',
+        'date_iso': g['date'],
+        'year': int(y),
+        'month': int(m),
+        'department': g['department'],
+        'department_code': dept_code,
+        'department_icon': icon,
+        'department_en': dept_code,
+        'doc_type': 'GR',
+        'doc_type_mr': 'शासन निर्णय',
+        'gr_number': g['gr_number'],
+        'pdf_url': g['pdf_url'],
+        'source': 'gr.maharashtra.gov.in',
+    }
+
+
 def main():
     log('═' * 60)
     log('  वंदे नागपूर · DIRECT scrape from gr.maharashtra.gov.in')
@@ -184,12 +209,13 @@ def main():
     
     existing_ids = {g.get('gr_number', '') for g in current if g.get('gr_number')}
     
-    html = fetch_page()
-    if not html:
+    # सर्व पाने वाचा (फक्त पहिले १० नव्हे) — आधीच्या GR पर्यंत पोहोचल्यावर थांबते
+    portal = gr_portal.fetch_latest(known_ids=existing_ids)
+    if portal is None:
         log('⚠ Could not fetch page')
         return 1
     
-    new_grs = parse_grs(html)
+    new_grs = [from_portal(g) for g in portal]
     log(f'  ✓ Parsed {len(new_grs)} GRs from official portal')
     
     if not new_grs:

@@ -2,7 +2,7 @@ name: दैनिक अद्ययावत · Daily Auto-Update
 
 on:
   schedule:
-    - cron: '30 2 * * *'   # दर रोज सकाळी ८ वा IST (02:30 UTC)
+    - cron: '30 2,14 * * *'   # दर रोज सकाळी ८ व रात्री ८ वा IST (02:30 व 14:30 UTC)
   workflow_dispatch:
 
 permissions:
@@ -11,10 +11,10 @@ permissions:
 jobs:
   scrape:
     name: नवीन GRs scrape + dashboard update
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - name: Install dependencies
