@@ -1,5 +1,1865 @@
 [
   {
+    "title_mr": "व्यवसाय शिक्षण व प्रशिक्षण संचालनालयाच्या अधिपत्याखालील संस्था व कार्यालयातील प्रबंधक/ सहा. संचालक,  गट-ब (अतांत्रिक) या पदाच्या पदोन्नतीची सुधारित पदस्थापनेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "कौशल्य विकास व उदयोजकता विभाग",
+    "department_code": "Skill",
+    "department_icon": "🛠️",
+    "department_en": "Skill",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051552077703",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051552077703.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2157",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "व्यवसाय शिक्षण व प्रशिक्षण संचालनालयाच्या अधिपत्याखालील संस्था व कार्यालयातील मुख्याध्यापक, गट-ब (तांत्रिक) (राजपत्रित), या पदाच्या पदोन्नतीची सुधारित पदस्थापनेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "कौशल्य विकास व उदयोजकता विभाग",
+    "department_code": "Skill",
+    "department_icon": "🛠️",
+    "department_en": "Skill",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051553461003",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051553461003.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2158",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "सण अग्रिम मर्यादा वाढविणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वित्त विभाग",
+    "department_code": "Finance",
+    "department_icon": "💰",
+    "department_en": "Finance",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051537588205",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051537588205.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2159",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "गरीब व गरजू व्यक्तींना स्वस्त दरात शिवभोजन उपलब्ध करुन देण्याकरीता अनुदान उपलब्ध करणेबाबत...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "अन्‍न, नागरी पुरवठा व ग्राहक संरक्षण विभाग",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051735054806",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051735054806.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2160",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "प्रतिनियुक्तीचे आदेश रद्द करणेबाबत.. श्री. विशाल सि. कांबळे, कक्ष अधिकारी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "सामान्य प्रशासन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "GAD",
+    "department_icon": "🏛️",
+    "department_en": "GAD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051626209807",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051626209807.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2161",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "मंत्रालय आहार/उपाहारगृहाच्या आस्थापनेवरील प्रशासकीय बाजुच्या गट-ब (अराजपत्रित) व गट-क संवर्गातील अधिकारी/कर्मचाऱ्यांची दि.01 जानेवारी, 2026 रोजीची अंतिम ज्येष्ठतासूची.                                                    (दि.01.01.2025 ते दि.31.12.2025)",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "सामान्य प्रशासन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "GAD",
+    "department_icon": "🏛️",
+    "department_en": "GAD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051711223507",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051711223507.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2162",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "कोकण भवन उपाहारगृहे व चौरस आहारगृहासाठी स्थायी अग्रिम रकमेत वाढ करणेबाबत...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "सामान्य प्रशासन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "GAD",
+    "department_icon": "🏛️",
+    "department_en": "GAD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051715199407",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051715199407.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2163",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "सामान्य प्रशासन विभागाच्या अधिपत्याखालील मंत्रालय आहारगृह/उपाहारगृहातील पौष्टिक खाद्यपदार्थांचा मेनू व त्याबाबतचे दर.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "सामान्य प्रशासन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "GAD",
+    "department_icon": "🏛️",
+    "department_en": "GAD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051718038907",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051718038907.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2164",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "प्रधानमंत्री आवास योजना (शहरी) 2.0 अंतर्गत राज्यस्तरीय तांत्रिक कक्ष (SLTC)/ शहरस्तरीय तांत्रिक कक्ष (CLTC) यांचे मानधन अदा करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "गृहनिर्माण विभाग",
+    "department_code": "Home",
+    "department_icon": "🛡️",
+    "department_en": "Home",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051522038809",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051522038809.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2165",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महाराष्ट्र न्यायिक अकादमी व भारतीय मध्यस्थी केंद्र आणि प्रशिक्षण संस्था, उत्तन, ठाणे मधील कर्मचाऱ्यांना प्रत्येक 3 महिन्यातून एकदा 4 बदली रजा जमा करुन त्याबदल्यात 4 दिवसांचे वेतन व अनुषंगिक भत्ते देण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "विधी व न्याय विभाग",
+    "department_code": "Law",
+    "department_icon": "⚖️",
+    "department_en": "Law",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051615258212",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051615258212.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2166",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "सन 2026-27 अर्थसंकल्पीय अनुदान मागणी क्र. जे-5, मुख्य लेखाशीर्ष 7610, शासकीय कर्मचारी इत्यादींना कर्जे, याखालील उपशीर्ष (202)(00)(01) मोटार वाहन खरेदी अग्रिमे (7610 0481) मोटार वाहन खरेदी  अग्रिम वाटप.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "विधी व न्याय विभाग",
+    "department_code": "Law",
+    "department_icon": "⚖️",
+    "department_en": "Law",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051816334412",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051816334412.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2167",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वरोरा,जि. चंद्रपूर येथील सहायक सरकारी वकील तथा अतिरिक्त लोक अभियोक्ता यांच्या कार्यालयातील अधीक्षक यांना आहरण  व संवितरण अधिकारी  म्हणून घोषित करणेबाबत...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "विधी व न्याय विभाग",
+    "department_code": "Law",
+    "department_icon": "⚖️",
+    "department_en": "Law",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051847161312",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051847161312.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2168",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "थोर समाजसुधारक महात्मा जोतीराव फुले यांच्या व्दिजन्मशताब्दी वर्षानिमित्त  अल्पसंख्याक विकास विभागाअंतर्गत विविध उपक्रम राबविण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "अल्पसंख्याक विकास विभाग",
+    "department_code": "Minority",
+    "department_icon": "🕌",
+    "department_en": "Minority",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051741167714",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051741167714.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2169",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वित्त विभागाच्या निर्देशानुसार ज्या राज्य योजनांमधील मागील 3 आर्थिक वर्षातील प्रत्यक्ष खर्च रु. 25 कोटींपेक्षा कमी आहे अशा योजनांचा आढावा घेऊन सदर योजना बंद/एकत्रित करण्याकरीता करावयाच्या कार्यवाहीबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "अल्पसंख्याक विकास विभाग",
+    "department_code": "Minority",
+    "department_icon": "🕌",
+    "department_en": "Minority",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051758390414",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051758390414.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2170",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "सन-2026 या वर्षातील अर्थ व सांख्यिकी आयुक्तालयातील संशोधन अधिकारी/सांख्यिकी अधिकारी/सहायक जिल्हा नियोजन अधिकारी, गट-ब (राजपत्रित)  संवर्गातील अधिकाऱ्यांच्या विनंतीनुसार बदल्यांबाबत......",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नियोजन विभाग",
+    "department_code": "Planning",
+    "department_icon": "📊",
+    "department_en": "Planning",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051729444116",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051729444116.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2171",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "अर्थ व सांख्यिकी आयुक्तालयातील संशोधन अधिकारी/ सांख्यिकी अधिकारी/सहायक जिल्हा नियोजन अधिकारी, गट-ब (राजपत्रित) संवर्गातून उप आयुक्त, गट-अ (राजपत्रित) संवर्गातील पदावर पदोन्नतीने पदस्थापना देणेबाबत.....",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नियोजन विभाग",
+    "department_code": "Planning",
+    "department_icon": "📊",
+    "department_en": "Planning",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051731086516",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051731086516.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2172",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "परिविक्षा कालावधी समाप्त करण्याबाबत.. श्री.अरविंद जगन्नाथ देसाई, कनिष्ठ वैज्ञानिक अधिकारी,गट-ब",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "सार्वजनिक आरोग्य विभाग",
+    "department_code": "Health",
+    "department_icon": "🏥",
+    "department_en": "Health",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051131423317",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051131423317.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2173",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "मा.बाळासाहेब ठाकरे स् मृती मातोश्री ग्रामपंचायत  बांधणी योजनेंतर्गत छत्रपती संभाजीनगर जिल्ह्यातील  ग्रामपंचायतींच्या इमारत बांधकामास मंजुरी प्रदान करणेबाबत ...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "ग्राम विकास विभाग",
+    "department_code": "RuralDev",
+    "department_icon": "🌾",
+    "department_en": "RuralDev",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051101207920",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051101207920.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2174",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "मा.बाळासाहेब ठाकरे स् मृती मातोश्री ग्रामपंचायत  बांधणी योजनेंतर्गत बीड जिल्ह्यातील  ग्रामपंचायतींच्या इमारतीच्या नावात अंशतः बदल करणेबाबत",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "ग्राम विकास विभाग",
+    "department_code": "RuralDev",
+    "department_icon": "🌾",
+    "department_en": "RuralDev",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051101351420",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051101351420.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2175",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत राहुरी नगरपरिषद, जि. अहिल्यानगर करीता रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051619245825",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051619245825.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2176",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत पैठण नगरपरिषद, जि. छत्रपती संभाजीनगर करीता एकुण रक्कम रु.10.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051527306325",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051527306325.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2177",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत सावंतवाडी नगरपरिषद, जि. सिंधुदुर्ग करीता रक्कम रु. 9.00 कोटी वेंगुर्ला नगरपरिषद, जि. सिंधुदुर्ग करीता रक्कम रु. 3.00 कोटी एकुण रक्कम रु.12.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051529485125",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051529485125.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2178",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत देवळी नगरपरिषद, जि. वर्धा करीता एकुण रक्कम रु.5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051544233325",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051544233325.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2179",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत जिंतूर नगरपरिषद, जि. परभणी करीता रक्कम रु.3.00 कोटी सेलू नगरपरिषद, जि. परभणी करीता रक्कम रु.2.00 कोटी एकुण रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051545558525",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051545558525.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2180",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत सटाणा नगरपरिषद, जि. नाशिक करीता रक्कम रु.5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051547083625",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051547083625.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2181",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत सांगली मिरज कुपवाड शहर महानगरपालिका, जि. सांगली करिता रक्कम रु. 4.90 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051548278925",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051548278925.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2182",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत कोरपना नगरपंचायत, जि. चंद्रपूर करीता रक्कम रु.1.00 कोटी गोंडपिपरी नगरपंचायत, जि. चंद्रपूर करीता रक्कम रु. 2.00 कोटी जिवती नगरपंचायत, जि. चंद्रपूर करीता रक्कम रु. 2.00 कोटी एकुण रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051549437025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051549437025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2183",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत अकोला महानगरपालिका, जि. अकोला करिता  रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051604501925",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051604501925.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2184",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत गोंदिया नगरपरिषद, जि. गोंदिया करीता एकुण रक्कम रु.5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051606321625",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051606321625.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2185",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत नंदुरबार नगरपरिषद, जि. नंदुरबार करीता एकुण रक्कम रु.5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051608007325",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051608007325.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2186",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत धाराशिव नगरपरिषद, जि. धाराशिव करीता रक्कम रु. 3.00 कोटी तुळजापूर नगरपरिषद, जि. धाराशिव करीता रक्कम रु.2.00 कोटी एकुण रक्कम रु.5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051609285025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051609285025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2187",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत मुखेड नगरपरिषद, जि. नांदेड करीता रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051611006825",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051611006825.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2188",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत मुर्तिजापूर नगरपरिषद, जि. अकोला करीता एकुण रक्कम रु.5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051612469625",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051612469625.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2189",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत श्रीगोंदा नगरपरिषद, जि. अहिल्यानगर करीता रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051613563125",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051613563125.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2190",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "नवी मुंबई महानगरपालिका- वाशी, सेक्टर-9 येथील नैवेद्य व अलबेला सोसायटी प्रकरणी पारित ठराव क्र.998, दिनांक 22.07.2026 निलंबित करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051659081225",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051659081225.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2191",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत गंगापूर नगरपरिषद, जि. छत्रपती संभाजीनगर करीता रक्कम रु.3.00 कोटी खुलताबाद नगरपरिषद, जि. छत्रपती संभाजीनगर करीता रक्कम रु.2.00  कोटी एकुण रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051622059425",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051622059425.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2192",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत शिराळा नगरपंचायत, जि. सांगली करीता एकुण रक्कम रु.5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051623251025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051623251025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2193",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत चिखलदरा नगरपरिषद, जि. अमरावती करीता रक्कम रु. 1.40 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051813428325",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051813428325.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2194",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "राज्याने नागरी स्थानिक स्वराज्य संस्थांना द्यावयाच्या मोटार वाहन कराच्या अभिहस्तांकित रकमा-रस्ता अनुदान (अनिवार्य) योजनेअंतर्गत  निधी मंजूर करण्याबाबत. सन 2026-27 साठी (लेखाशिर्ष 3604 1054) अंतर्गत चिखलदरा नगरपरिषद जि.अमरावती करिता   रक्कम रु. 8.10 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051819512925",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051819512925.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2195",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वैशिष्ट्यपूर्ण योजनेअंतर्गत नगरपरिषदांना निधी मंजूर करण्याबाबत.  सन 2026-27 लेखाशिर्ष (2217 1301) अंतर्गत पेण नगरपरिषद, जि. रायगड करीता एकुण रक्कम रु.10.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051821233425",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051821233425.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2196",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "राज्याने नागरी स्थानिक स्वराज्य संस्थांना द्यावयाच्या मोटार वाहन कराच्या अभिहस्तांकित रकमा-रस्ता अनुदान (अनिवार्य) योजनेअंतर्गत  निधी मंजूर करण्याबाबत. सन 2026-27 साठी (लेखाशिर्ष 3604 1054) अंतर्गत वाडी नगरपरिषद, जि. नागपूर  करिता   रक्कम रु. 3.10 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051822383825",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051822383825.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2197",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051839196025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051839196025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2198",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051840417125",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051840417125.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2199",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051842017525",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051842017525.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2200",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051843111025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051843111025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2201",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051844208825",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051844208825.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2202",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "बृहन्मुंबई महानगरपालिकेच्या वैद्यकीय व दंत महाविद्यालयांच्या आस्थापनेवरील गट अ व गट ब मधील अधिष्ठाता तसेच विविध विभागांतील प्राध्यापक, सहयोगी प्राध्यापक व सहाय्यक प्राध्यापक या संवर्गांतील पदांची दिव्यांग व्यक्ती हक्क अधिनियम, २०१६ च्या तरतुदींनुसार दिव्यांग आरक्षणाच्या प्रयोजनार्थ पदांची सुनिश्चिती करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051858568125",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051858568125.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2203",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051904505025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051904505025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2204",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई शहर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051906441925",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051906441925.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2205",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051908012825",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051908012825.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2206",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई शहर करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051909287525",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051909287525.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2207",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत पुणे महानगरपालिका, जि. पुणे करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051919286725",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051919286725.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2208",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत जळगाव महानगरपालिका, जि. जळगाव करिता  रक्कम रु. 10.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051920565325",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051920565325.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2209",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत बृहन्मुंबई महानगरपालिका, जि. मुंबई उपनगर  करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051923301525",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051923301525.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2210",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत धुळे महानगरपालिका, जि. धुळे करिता  रक्कम रु. 5.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051924419025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051924419025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2211",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत नागपूर महानगरपालिका, जि.नागपूर करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051927598925",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051927598925.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2212",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत छत्रपती संभाजीनगर महानगरपालिका,  जि. छत्रपती संभाजीनगर करिता  रक्कम रु. 10.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051930297825",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051930297825.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2213",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत पुणे महानगरपालिका, जि. पुणे करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051932145525",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051932145525.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2214",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत पनवेल महानगरपालिका, जि. रायगड करिता  रक्कम रु. 10.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051933451625",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051933451625.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2215",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत कल्याण डोंबिवली महानगरपालिका, जि. ठाणे करिता  रक्कम रु. 20.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051937226025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051937226025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2216",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत वसई विरार महानगरपालिका, जि. पालघर करिता  रक्कम रु. 10.00 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051939130025",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051939130025.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2217",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महानगरपालिका क्षेत्रात मुलभूत सोई सुविधांच्या विकासासाठी विशेष तरतूद योजनेअंतर्गत निधी मंजूर करण्याबाबत. सन 2026-27 करिता (लेखाशिर्ष 2217 0913) अंतर्गत ठाणे महानगरपालिका, जि. ठाणे करिता  रक्कम रु. 11.45 कोटी",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "नगर विकास विभाग",
+    "department_code": "Urban",
+    "department_icon": "🏛️",
+    "department_en": "Urban",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051951149225",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051951149225.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2218",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "दुष्काळी परिस्थितीत मृद व जलसंधारण विभागाच्या अधिपत्याखालील जलाशय / तलावांतील गाळपेरा क्षेत्र फक्त चारा पिकांच्या लागवडीकरिता शेतकरी / पशुपालकांना उपलब्ध करून देण्याबाबत मार्गदर्शक सूचना.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "मृद व जलसंधारण विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Soil",
+    "department_icon": "💧",
+    "department_en": "Soil",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051853002026",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051853002026.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2219",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "जल जीवन मिशन योजनेंतर्गत केंद्र हिश्याशी अनुरूप राज्य हिश्याव्यतिरिक्त आवश्यक असणारा अतिरिक्त निधी राज्याच्या स्वनिधीतून उपलब्ध करून खर्च करण्याकरिता तसेच केंद्र शासनाकडून प्रतिपूर्ती होण्याकरिता राज्याने करावयाच्या आगाऊ खर्चासाठी सर्वसाधारण घटकाखाली नवीन लेखाशिर्ष उघडण्यास मान्यता देण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "पाणीपुरवठा व स्वच्छता विभाग",
+    "department_code": "WaterSupply",
+    "department_icon": "🚰",
+    "department_en": "WaterSupply",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051719237028",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051719237028.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2220",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महिला व बाल विकास विभागाच्या अधिनस्त कार्यरत गट-ब (राजपत्रित) संवर्गातील  परिवीक्षाधीन अधिका-यांना एकत्रित परिवीक्षाधीन  प्रशिक्षण कार्यक्रम (सीपीटीपी-10) अंतर्गत स्वतंत्र कार्यभार देण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "महिला व बाल विकास विभाग",
+    "department_code": "WCD",
+    "department_icon": "👩",
+    "department_en": "WCD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051541065230",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051541065230.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2221",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महिला व बाल विकास विभागाच्या अधिनस्त विस्तार अधिकारी (सांख्यिकी) या संवर्गाची अधिसंख्य पदे  निर्माण  करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "महिला व बाल विकास विभाग",
+    "department_code": "WCD",
+    "department_icon": "👩",
+    "department_en": "WCD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051832571230",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051832571230.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2222",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "सन 2026-27 करीता मिशन वात्सल्य या केंद्रपुरस्कृत योजनेअंतर्गत निधी वितरीत करणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "महिला व बाल विकास विभाग",
+    "department_code": "WCD",
+    "department_icon": "👩",
+    "department_en": "WCD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051538283130",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051538283130.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2223",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "एकत्रित परिवीक्षाधीन  प्रशिक्षण कार्यक्रम-10 (सीपीटीपी-10) मधील परिवीक्षाधीन अधिकाऱ्यांना गट-अ संवर्गातील बाल विकास प्रकल्प अधिकारी व तत्सम पदांचा स्वंतत्र कार्यभार देण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "महिला व बाल विकास विभाग",
+    "department_code": "WCD",
+    "department_icon": "👩",
+    "department_en": "WCD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051718576630",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051718576630.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2224",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "महिला व बाल विकास विभागाच्या अधिनस्त विस्तार अधिकारी (सांख्यिकी) या संवर्गाची अधिसंख्य पदे  निर्माण  करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "महिला व बाल विकास विभाग",
+    "department_code": "WCD",
+    "department_icon": "👩",
+    "department_en": "WCD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051832571230",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051832571230.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2225",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "इतर मागास बहुजन कल्याण विभागांतर्गत विजाभज प्रवर्गाच्या आश्रमशाळांमधील विद्यार्थ्यांना अंतराळ संशोधनाबद्दल अधिक माहिती मिळावी म्हणून आश्रमशाळांतील एकूण 300 विद्यार्थ्यांकरींता ISRO (भारतीय अंतराळ संशोधन संस्था) या संस्थेची भेट आयोजित करणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "इतर मागास बहुजन कल्याण विभाग",
+    "department_code": "OBC",
+    "department_icon": "🤝",
+    "department_en": "OBC",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051535208134",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051535208134.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2226",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "इतर मागास बहुजन कल्याण विभागाच्या संस्थांमधील (महाज्योती, अमृत, वनार्टी) स्पर्धा परीक्षा व पीएचडी फेलोशिप योजनांचे सुलभीकरण आणि प्रशासकीय प्रक्रिया पुनर्रचना (GPR) लागू करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "इतर मागास बहुजन कल्याण विभाग",
+    "department_code": "OBC",
+    "department_icon": "🤝",
+    "department_en": "OBC",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051720131134",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051720131134.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2227",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "जिल्हा वार्षिक योजना (सर्वसाधारण) अंतर्गत राज्यातील दिव्यांग व्यक्तींच्या पुनर्वसन व सक्षमीकरणाकरीता 1 निधीचा सुयोग्य विनियोग करणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "दिव्यांग कल्याण विभाग",
+    "department_code": "PWD",
+    "department_icon": "♿",
+    "department_en": "PWD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051629305635",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051629305635.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2228",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "कौशल्य विकास केंद्र (अस्थिव्यंग)   प्रवर्गातील कार्य करणाऱ्या अशासकीय संस्थांना सहायक अनुदाने वेतनेतर निधी वितरण करणेबाबत. अखिल भारतीय अपंग कल्याणकारी प्रसारक मंडळ धाराशीव संचलीत नवजीवन अपंग प्रशिक्षण केंद्र, खानापूर ता.जि.धाराशीव.  (सन २०२4-२5 चे 40 व सन 2025-2026 चे 60 वेतनेतर)",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "दिव्यांग कल्याण विभाग",
+    "department_code": "PWD",
+    "department_icon": "♿",
+    "department_en": "PWD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051831008035",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051831008035.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2229",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "दिव्यांग व्यक्तीसाठी बालगृहे प्रवर्गातील कार्य करणाऱ्या अशासकीय संस्थांना सहायक अनुदाने वेतनेतर निधी वितरण करणेबाबत. गोपाल शिक्षण संस्था द्वारा संचलित स्व. अंबादासपंत वैद्य मतिमंद मुकबधीर बालगृह  वझ्झर फाटा ता. अचलपूर जि. अमरावती (सन 2024-25 चे 20   सन 2025-26 चे 80 )",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "दिव्यांग कल्याण विभाग",
+    "department_code": "PWD",
+    "department_icon": "♿",
+    "department_en": "PWD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051833164635",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051833164635.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2230",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "बौध्दिक अक्षम या प्रवर्गातील कार्य करणाऱ्या अशासकीय संस्थांना सहायक अनुदाने वेतनेतर निधी वितरण करणेबाबत.  दि चिल्ड्रन एड सोसायटी, मुंबई संचलित, भारतरत्न डॉ, ए. पी. जे. अब्दुल कलाम दिव्यांग मुलांचे बालगृह, मानखुर्द, मुंबई (सन 2025-26 चे 60 वेतनेतर अनुदान)",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "दिव्यांग कल्याण विभाग",
+    "department_code": "PWD",
+    "department_icon": "♿",
+    "department_en": "PWD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051834464535",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051834464535.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2231",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "दिव्यांग व्यक्तीसाठी बालगृहे प्रवर्गातील कार्य करणाऱ्या अशासकीय संस्थांना सहायक अनुदाने वेतनेतर निधी वितरण करणेबाबत. परमप्रसाद चॅरिटेबल सोसायटी संचलित आशाभवन मतिमंद मुलांची कार्यशाळा वाघजाईवाडी ता. कोरेगाव जि. सातारा (सन 2023-24)",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "दिव्यांग कल्याण विभाग",
+    "department_code": "PWD",
+    "department_icon": "♿",
+    "department_en": "PWD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051836052535",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051836052535.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2232",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "दिव्यांग व्यक्तीसाठी बालगृहे प्रवर्गातील कार्य करणाऱ्या अशासकीय संस्थांना सहायक अनुदाने वेतनेतर निधी वितरण करणेबाबत. परमप्रसाद चॅरिटेबल सोसायटी संचलित मतिमंद मुलांचे शासकीय संमत केंद्र संलग्न कौशल्य व उद्योजकता विकास केंद्र, (आशाग्राम बालगृह)  वाघजाईवाडी ता. कोरेगाव जि. सातारा (सन 2023-24)",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "दिव्यांग कल्याण विभाग",
+    "department_code": "PWD",
+    "department_icon": "♿",
+    "department_en": "PWD",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051837309735",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051837309735.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2233",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "सहकारी सूतगिरण्यांना वित्तीय संस्थांकडून मिळणा-या कर्जावरील 12 टक्के व्याजाचे प्रदान करणेबाबत- चौंडेश्वरी सहकारी सूतगिरणी लि., इचलकरंजी, ता.शिरोळ, जि.कोल्हापूर.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वस्‍त्रोद्योग विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051555503636",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051555503636.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2234",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "वस्त्रोद्योग विभागामार्फत राबविण्यात येणाऱ्या विविध योजनांच्या शासन प्रक्रिया पुनर्रचना (Government Process Re-engineering-GPR) उपक्रमांतर्गत प्रशासकीय प्रक्रिया सुलभ, सुटसुटीत व गतिमान करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वस्‍त्रोद्योग विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051514281536",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051514281536.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2235",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "रेशीम संचालनालयाच्या आस्थापनेवरील रेशीम विकास अधिकारी श्रेणी-1 या संवर्गातील अधिकाऱ्यांची दि.01.01.2025 व दि.01.01.2026 रोजीची तात्पुरती जेष्ठता सूची प्रसिध्द करणेबाबत...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वस्‍त्रोद्योग विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051516319536",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051516319536.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2236",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "रेशीम संचालनालयाच्या आस्थापनेवरील उपसंचालक, गट-अ या संवर्गातील अधिकाऱ्यांची दि.01.01.2026 रोजीची तात्पुरती जेष्ठता सूची प्रसिध्द करणेबाबत...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वस्‍त्रोद्योग विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051518152636",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051518152636.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2237",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "रेशीम संचालनालयाच्या आस्थापनेवरील सहायक संचालक, गट-अ या संवर्गातील अधिकाऱ्यांची दि.01.01.2026 रोजीची तात्पुरती जेष्ठता सूची प्रसिध्द करणेबाबत...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वस्‍त्रोद्योग विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051519424236",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051519424236.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2238",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "परिवहन आयुक्त कार्यालय,  प्रशासकीय इमारत, 4 था मजला, वांद्रे (पूर्व), मुंबई  या कार्यालयाच्या विद्युत संच मांडणी नव्याने करणेकरिता येणाऱ्या खर्चाच्या अंदाजपत्रकास प्रशासकीय व वित्तीय मान्यता देण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "परिवहन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051826480339",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051826480339.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2239",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "उप प्रादेशिक परिवहन कार्यालय, कराड  कार्यालयाच्या आवारात I  C Centre करिता संरक्षक भिंत बांधणे या कामाच्या खर्चाच्या अंदाजपत्रकास प्रशासकीय व वित्तीय मान्यता देण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "परिवहन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051828205639",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051828205639.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2240",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "सहाय्यक वन संरक्षक गट-अ (कनिष्ठ श्रेणी) या संवर्गातील तदर्थ पदोन्नत्या नियमित करण्याबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Forest",
+    "department_icon": "🌳",
+    "department_en": "Forest",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051802013540",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051802013540.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2241",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "विभागीय निविदा समिती/ खरेदी  समितीची स्थापना करणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "मदत व पुनर्वसन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051617386841",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051617386841.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2242",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "उजनी प्रकल्पांतर्गत सोलापूर जिल्ह्यातील करमाळा,पंढरपूर तालुक्यातील व पुणे जिल्ह्यातील इंदापूर तालुक्यातील पुनर्वसित गावठाणांतील नागरी सुविधा कामासाठी निधी वितरीत करणेबाबत..",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "मदत व पुनर्वसन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051727310841",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051727310841.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2243",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "जून 2025 ते सप्टेंबर 2025 या कालावधीत अतिवृष्टी व पूर सद्दृश्य परिस्थिती यामुळे झालेल्या मत्स्यव्यवसाय नुकसानीकरिता प्रशासकीय मंजुरी व निधी वितरीत करण्यास मान्यता देण्याबाबत....",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "मदत व पुनर्वसन विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051753083441",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051753083441.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2244",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "प्रख्यात संगीतकार श्री. दत्ताराम नाईक यांच्या जन्मशताब्दी वर्षानिमित्त सांस्कृतिक कार्यक्रमाचे आयोजन करण्यास व त्यावरील  खर्चास प्रशासकीय मान्यता देणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "सांस्कृतिक कार्य विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Tourism",
+    "department_icon": "🎭",
+    "department_en": "Tourism",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051534198443",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051534198443.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2245",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "पंडित जवाहरलाल नेहरू यांच्या जन्मशताब्दी वर्षानिमित्त सांस्कृतिक कार्यक्रमाचे आयोजन करण्यास व त्यावरील खर्चास प्रशासकीय मान्यता देणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "सांस्कृतिक कार्य विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Tourism",
+    "department_icon": "🎭",
+    "department_en": "Tourism",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051535445843",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051535445843.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2246",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "इयत्ता 9 वी ते 12 वी च्या अभ्यासक्रम निर्मितीच्या कामकाजाकरिता अध्यक्ष, महाराष्ट्र राज्य माध्यमिक व उच्च माध्यमिक शिक्षण मंडळ, पुणे यांची राज्यस्तरीय सुकाणू समितीमध्ये सदस्य सचिव पदी नियुक्ती करणेबाबत.",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "शालेय शिक्षण विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "SchoolEdu",
+    "department_icon": "📚",
+    "department_en": "SchoolEdu",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051541531849",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051541531849.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2247",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "केंद्र शासनाच्या राज्यांना भांडवली खर्चासाठी कर्ज स्वरुपात विशेष सहाय्य योजना (बिनव्याजी कर्ज) सन २०२६-२७ भाग-१ अंतर्गत शासकीय वैद्यकीय महाविद्यालय, गोंदिया यांच्याकडील अखर्चित निधी शासकीय वैद्यकीय महाविद्यालय, जळगाव यांना वर्ग करण्याबाबत...",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "वैद्यकीय शिक्षण विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "MedEd",
+    "department_icon": "⚕️",
+    "department_en": "MedEd",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051410354251",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051410354251.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2248",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
+    "title_mr": "ऊर्जा विभागाच्या योजनांकरिता शासकीय प्रक्रिया पुनर्रचना (Government Process Re-Engineering-GPR) अंतर्गत सुधारित कार्यपध्दती लागू करणेबाबत....",
+    "date": "05-11-2026",
+    "date_iso": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "department": "ऊर्जा विभाग (पासुन २४-जून-२०२६)",
+    "department_code": "Other",
+    "department_icon": "📄",
+    "department_en": "Other",
+    "doc_type": "GR",
+    "doc_type_mr": "शासन निर्णय",
+    "gr_number": "202611051708093853",
+    "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051708093853.pdf",
+    "source": "gr.maharashtra.gov.in",
+    "id": "MH-2249",
+    "is_today": false,
+    "is_this_week": true,
+    "is_this_month": true
+  },
+  {
     "title_mr": "राज्यातील आजी/माजी सैनिक, युद्ध विधवा, शौर्यपदक धारक तसेच त्यांच्या कुटुंबीयांच्या विविध प्रश्न व अडीअडचणींचे तातडीने निराकरणासाठी प्रत्येक जिल्ह्यात दर दोन महिन्यांनी माजी सैनिक विशेष जनता दरबार आयोजित करण्याबाबत.",
     "date": "05-11-2026",
     "date_iso": "2026-11-05",
@@ -15,7 +1875,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051119008507.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2134",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -35,7 +1895,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051434128707.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2135",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -55,7 +1915,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051508599408.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2136",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -75,7 +1935,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051126141711.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2137",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -95,7 +1955,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051505214511.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2138",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -115,7 +1975,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051121244616.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2139",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -135,7 +1995,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051038221220.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2140",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -155,7 +2015,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051259073022.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2141",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -175,7 +2035,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051403121325.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2142",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -195,7 +2055,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051141042726.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2143",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -215,7 +2075,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051319477626.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2144",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -235,7 +2095,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051346594026.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2145",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -255,7 +2115,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051116288529.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2146",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -275,7 +2135,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051123332030.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2147",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -295,7 +2155,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051123282030.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2148",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -315,7 +2175,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051123263130.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2149",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -335,7 +2195,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051149115240.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2150",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -355,7 +2215,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051501398140.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2151",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -375,7 +2235,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051113180741.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2152",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -395,7 +2255,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051407262241.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2153",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -415,7 +2275,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051144079543.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2154",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -435,7 +2295,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051226499945.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2155",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -455,7 +2315,7 @@
     "pdf_url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202611051228592145.pdf",
     "source": "gr.maharashtra.gov.in",
     "id": "MH-2156",
-    "is_today": true,
+    "is_today": false,
     "is_this_week": true,
     "is_this_month": true
   },
@@ -5096,7 +6956,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1717",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5116,7 +6976,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1718",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5136,7 +6996,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1719",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5156,7 +7016,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1720",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5176,7 +7036,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1721",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5196,7 +7056,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1722",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5216,7 +7076,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1723",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5236,7 +7096,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1724",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5256,7 +7116,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1725",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5276,7 +7136,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1726",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5296,7 +7156,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1727",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5316,7 +7176,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1728",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5336,7 +7196,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1729",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5356,7 +7216,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1730",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5376,7 +7236,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1731",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5396,7 +7256,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1732",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5416,7 +7276,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1733",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5436,7 +7296,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1734",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5456,7 +7316,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1735",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5476,7 +7336,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1736",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5496,7 +7356,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1737",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5516,7 +7376,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1738",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5536,7 +7396,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1739",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5556,7 +7416,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1740",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5576,7 +7436,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1741",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5596,7 +7456,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1742",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5616,7 +7476,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1743",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5636,7 +7496,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1744",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5656,7 +7516,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1745",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5676,7 +7536,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1746",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5696,7 +7556,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1747",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5716,7 +7576,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1748",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5736,7 +7596,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1749",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5756,7 +7616,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1750",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5776,7 +7636,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1751",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5796,7 +7656,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1752",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5816,7 +7676,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1753",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5836,7 +7696,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1754",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5856,7 +7716,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1755",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5876,7 +7736,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1756",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5896,7 +7756,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1757",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5916,7 +7776,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1758",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5936,7 +7796,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1759",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5956,7 +7816,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1760",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5976,7 +7836,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1761",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -5996,7 +7856,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1762",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6016,7 +7876,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1763",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6036,7 +7896,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1764",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6056,7 +7916,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1765",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6076,7 +7936,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1766",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6096,7 +7956,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1767",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6116,7 +7976,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1768",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6136,7 +7996,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1769",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6156,7 +8016,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1770",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6176,7 +8036,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1771",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6196,7 +8056,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1772",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6216,7 +8076,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1773",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6236,7 +8096,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1774",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6256,7 +8116,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1775",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6276,7 +8136,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1776",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6296,7 +8156,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1777",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6316,7 +8176,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1778",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6336,7 +8196,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1779",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6356,7 +8216,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1780",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6376,7 +8236,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1781",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6396,7 +8256,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1782",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6416,7 +8276,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1783",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6436,7 +8296,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1784",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6456,7 +8316,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1785",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6476,7 +8336,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1786",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6496,7 +8356,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1787",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6516,7 +8376,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1788",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6536,7 +8396,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1789",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6556,7 +8416,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1790",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6576,7 +8436,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1791",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6596,7 +8456,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1792",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6616,7 +8476,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1793",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6636,7 +8496,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1794",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6656,7 +8516,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1795",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6676,7 +8536,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1796",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6696,7 +8556,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1797",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6716,7 +8576,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1798",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6736,7 +8596,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1799",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6756,7 +8616,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1800",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6776,7 +8636,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1801",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6796,7 +8656,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1802",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6816,7 +8676,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1803",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6836,7 +8696,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1804",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6856,7 +8716,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1805",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6876,7 +8736,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1806",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6896,7 +8756,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1807",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6916,7 +8776,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1808",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6936,7 +8796,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1809",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6956,7 +8816,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1810",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6976,7 +8836,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1811",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -6996,7 +8856,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1812",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7016,7 +8876,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1813",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7036,7 +8896,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1814",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7056,7 +8916,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1815",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7076,7 +8936,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1816",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7096,7 +8956,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1817",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7116,7 +8976,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1818",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7136,7 +8996,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1819",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7156,7 +9016,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1820",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7176,7 +9036,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1821",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7196,7 +9056,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1822",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7216,7 +9076,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1823",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7236,7 +9096,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1824",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7256,7 +9116,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1825",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7276,7 +9136,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1826",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7296,7 +9156,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1827",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7316,7 +9176,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1828",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7336,7 +9196,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1829",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7356,7 +9216,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1830",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7376,7 +9236,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1831",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7396,7 +9256,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1832",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7416,7 +9276,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1833",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7436,7 +9296,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1834",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7456,7 +9316,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1835",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7476,7 +9336,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1836",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7496,7 +9356,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1837",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7516,7 +9376,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1838",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7536,7 +9396,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1839",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7556,7 +9416,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1840",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7576,7 +9436,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1841",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7596,7 +9456,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1842",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7616,7 +9476,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1843",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7636,7 +9496,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1844",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7656,7 +9516,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1845",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7676,7 +9536,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1846",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7696,7 +9556,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1847",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7716,7 +9576,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1848",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7736,7 +9596,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1849",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7756,7 +9616,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1850",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7776,7 +9636,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1851",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7796,7 +9656,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1852",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7816,7 +9676,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1853",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7836,7 +9696,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1854",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7856,7 +9716,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1855",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7876,7 +9736,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1856",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7896,7 +9756,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1857",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7916,7 +9776,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1858",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7936,7 +9796,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1859",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7956,7 +9816,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1860",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7976,7 +9836,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1861",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -7996,7 +9856,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1862",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8016,7 +9876,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1863",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8036,7 +9896,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1864",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8056,7 +9916,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1865",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8076,7 +9936,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1866",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8096,7 +9956,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1867",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8116,7 +9976,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1868",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8136,7 +9996,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1869",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8156,7 +10016,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1870",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8176,7 +10036,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1871",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8196,7 +10056,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1872",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8216,7 +10076,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1873",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8236,7 +10096,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1874",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8256,7 +10116,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1875",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8276,7 +10136,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1876",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8296,7 +10156,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1877",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8316,7 +10176,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1878",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8336,7 +10196,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1879",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8356,7 +10216,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1880",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8376,7 +10236,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1881",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8396,7 +10256,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1882",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8416,7 +10276,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1883",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8436,7 +10296,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1884",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8456,7 +10316,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1885",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8476,7 +10336,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1886",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8496,7 +10356,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1887",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8516,7 +10376,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1888",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8536,7 +10396,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1889",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8556,7 +10416,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1890",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8576,7 +10436,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1891",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8596,7 +10456,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1892",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8616,7 +10476,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1893",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8636,7 +10496,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1894",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8656,7 +10516,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1895",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8676,7 +10536,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1896",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8696,7 +10556,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1897",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8716,7 +10576,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1898",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8736,7 +10596,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1899",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8756,7 +10616,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1900",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8776,7 +10636,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1901",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8796,7 +10656,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1902",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8816,7 +10676,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1644",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8836,7 +10696,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1645",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8856,7 +10716,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1646",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8876,7 +10736,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1647",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8896,7 +10756,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1648",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8916,7 +10776,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1649",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8936,7 +10796,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1650",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8956,7 +10816,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1651",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8976,7 +10836,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1652",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -8996,7 +10856,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1653",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9016,7 +10876,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1654",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9036,7 +10896,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1655",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9056,7 +10916,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1656",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9076,7 +10936,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1657",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9096,7 +10956,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1658",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9116,7 +10976,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1659",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9136,7 +10996,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1660",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9156,7 +11016,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1661",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9176,7 +11036,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1662",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9196,7 +11056,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1663",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
@@ -9216,7 +11076,7 @@
     "source": "gr.maharashtra.gov.in",
     "id": "MH-1664",
     "is_today": false,
-    "is_this_week": true,
+    "is_this_week": false,
     "is_this_month": false
   },
   {
